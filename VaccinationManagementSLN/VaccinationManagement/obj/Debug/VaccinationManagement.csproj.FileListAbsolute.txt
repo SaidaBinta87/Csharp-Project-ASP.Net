@@ -1,0 +1,16 @@
+E:\C# Projects\VaccinationManagementSLN\VaccinationManagement\bin\Debug\VaccinationManagement.exe
+E:\C# Projects\VaccinationManagementSLN\VaccinationManagement\bin\Debug\VaccinationManagement.exe.config
+E:\C# Projects\VaccinationManagementSLN\VaccinationManagement\obj\Debug\VaccinationManagement.csproj.SuggestedBindingRedirects.cache
+E:\C# Projects\VaccinationManagementSLN\VaccinationManagement\obj\Debug\VaccinationManagement.FormAdmin.resources
+E:\C# Projects\VaccinationManagementSLN\VaccinationManagement\obj\Debug\VaccinationManagement.FormEditAndShow.resources
+E:\C# Projects\VaccinationManagementSLN\VaccinationManagement\obj\Debug\VaccinationManagement.FormRegister.resources
+E:\C# Projects\VaccinationManagementSLN\VaccinationManagement\obj\Debug\VaccinationManagement.Properties.Resources.resources
+E:\C# Projects\VaccinationManagementSLN\VaccinationManagement\obj\Debug\VaccinationManagement.Registration.resources
+E:\C# Projects\VaccinationManagementSLN\VaccinationManagement\obj\Debug\VaccinationManagement.ShowStatus.resources
+E:\C# Projects\VaccinationManagementSLN\VaccinationManagement\obj\Debug\VaccinationManagement.csproj.GenerateResource.cache
+E:\C# Projects\VaccinationManagementSLN\VaccinationManagement\obj\Debug\VaccinationManagement.csproj.CoreCompileInputs.cache
+E:\C# Projects\VaccinationManagementSLN\VaccinationManagement\obj\Debug\VaccinationManagement.exe
+E:\C# Projects\VaccinationManagementSLN\VaccinationManagement\obj\Debug\VaccinationManagement.pdb
+E:\C# Projects\VaccinationManagementSLN\VaccinationManagement\bin\Debug\VaccinationManagement.pdb
+E:\C# Projects\VaccinationManagementSLN\VaccinationManagement\obj\Debug\VaccinationManagement.csproj.AssemblyReference.cache
+E:\C# Projects\VaccinationManagementSLN\VaccinationManagement\obj\Debug\VaccinationManagement.FormUser.resources
